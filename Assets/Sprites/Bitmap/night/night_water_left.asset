@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: night_water_left
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -710932787, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  - {fileID: 1278718959, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  - {fileID: -922152455, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  - {fileID: -804209793, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  - {fileID: 1508535573, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  - {fileID: 1583906252, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  - {fileID: -165130425, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  - {fileID: 2037700724, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  - {fileID: -1884053741, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  - {fileID: 952081291, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  - {fileID: 577783308, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  - {fileID: 2015242929, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  - {fileID: 1453294818, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  - {fileID: -205817648, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  - {fileID: -1601217909, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  - {fileID: 1089293195, guid: 841d6dd24d0f24f4ebb919ac74949b91, type: 3}
+  m_MinSpeed: 16
+  m_MaxSpeed: 16
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

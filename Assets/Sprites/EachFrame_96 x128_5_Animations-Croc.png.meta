@@ -1,0 +1,1090 @@
+fileFormatVersion: 2
+guid: f9569dee1e6db244b9d275f27386cdec
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Croc_Sleep_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921d7003e487cfa40a894a6591c4d79c
+      internalID: -1010706262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Sleep_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 513
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508dfffc277bc494cba428af84064ab8
+      internalID: -478532121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Sleep_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 513
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f415ca30ea621419cc1a3a0d8f821c
+      internalID: -198070285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Sleep_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 513
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6b066090c4c85499d86108e5ad6ffa
+      internalID: 644864583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Sleep_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 513
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b8da1996ab92543a72348995e471fd
+      internalID: 1119563736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Sleep_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 513
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d983cb0da6d6843b5a3266bb94e7f5
+      internalID: -973968685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Sleep_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 513
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e814e2b71c72c9942a7b61a7850a7231
+      internalID: -102924211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Size_reference
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 512
+        width: 96
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfccf08f094009349a9ee1a9169cf62d
+      internalID: -484673757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Awake_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4354162a8cc89704096490daf849d898
+      internalID: 1273548659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Awake_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 385
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ca30def4b3bd745831206e273c2470
+      internalID: -667804758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Awake_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 385
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af34c8c95d5f2e54f9038c370c67a14d
+      internalID: -1607522540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Awake_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 385
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed130e502aa76d4ab405891db80c66d
+      internalID: 835500425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Awake_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 385
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff2274e4f1eca24eb2aa8723a041473
+      internalID: 1907129256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Awake_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 385
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c042e55d00b3f71488620ff525f49367
+      internalID: 241170502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Awake_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 385
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8875491e6e1d7b340b7bd4491f31aa89
+      internalID: -1156913985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Awake_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 385
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b4e5f742278464d84bead1f5d77e4c
+      internalID: 1710283846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Awake_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 385
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9c7926cce6c0d45aa0b457cc8e236c
+      internalID: 546026112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Awake_10
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 385
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fb4730c50be5f42985e7be48e34f4f
+      internalID: 1030511071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_WakeUp_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fc4cb149a9e894ea6606126f59b8a3
+      internalID: 1189346713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_WakeUp_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 257
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcd7684fafe80647b93ca8618839dce
+      internalID: 1279459349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_WakeUp_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9302830c33b6ee4993e4c94465302a3
+      internalID: -123380569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d13af5bf632243bdf6e97cfe374d1
+      internalID: -1313547209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2c83f12cb07f64587f8955bdb192b1
+      internalID: 812613673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62706cae731e96a4e88587c5e9c62efa
+      internalID: -406363759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27efab3e2e1d6c49a18dab996f2bce6
+      internalID: -759332567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a0662657808fe499ee6bf84bdcf470
+      internalID: -214834480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26da1880dc0c9d9489950fc411b80670
+      internalID: 754550822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8139a5f94b357b54a9d6e0a646ee7a23
+      internalID: -1392696662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b643845e570ef324da79ce9304b2d682
+      internalID: -1771674701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ebaff9cd37c0f48837be4192ce8763
+      internalID: 1660476243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fd8d0520043ea44b5c464da5e1a2e6
+      internalID: -286922421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1009f4f667b044cbe8361f64a2da1a
+      internalID: -1208082699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b26ca330f8ca14ea212aef07cfdc15
+      internalID: -571153899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d373ea21f86242418c3ea36659af994
+      internalID: 416903311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c596fbff518c03c46b686aa80809b969
+      internalID: 1465573175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3081d63bb3cafbf4cb02b07134d6978d
+      internalID: -374504365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29f83a530e859843b17f6cc67de00e2
+      internalID: 791499585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197a1324d16b5444f8b1a899f944ad59
+      internalID: 934759196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 129
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4cdc784ecf6ec4a89345e378b63fed
+      internalID: -1052493178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_FallAsleep_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc6d9b90c47eaf40b66ed661a118403
+      internalID: -195773570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_FallAsleep_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a7a0b8068987145a73a559cdea7df4
+      internalID: -1292731353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_FallAsleep_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fb57a67b3fc074eac4a21da655b80d
+      internalID: 1574889013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_FallAsleep_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e769460bb1b16c0459b9bd802830398f
+      internalID: 1431289438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croc_FallAsleep_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 96
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c2c4ce49ff1741b8db77dac327958
+      internalID: -2018739719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Croc_Attack_4: -214834480
+      Croc_Sleep_6: -102924211
+      Croc_Attack_2: -406363759
+      Croc_FallAsleep_3: 1574889013
+      Croc_WakeUp_3: -123380569
+      Croc_FallAsleep_5: -2018739719
+      Croc_Attack_18: -1052493178
+      Croc_Awake_8: 546026112
+      Croc_WakeUp_1: 1189346713
+      Croc_Sleep_1: -198070285
+      Croc_Awake_1: -667804758
+      Croc_Attack_9: -286922421
+      Croc_Attack_17: 934759196
+      Croc_Attack_3: -759332567
+      Croc_Awake_6: -1156913985
+      Croc_Awake_2: -1607522540
+      Croc_Attack_5: 754550822
+      Croc_Awake_7: 1710283846
+      Croc_Attack_13: 1465573175
+      Croc_FallAsleep_1: -195773570
+      Croc_Awake_4: 1907129256
+      Croc_Sleep_5: -973968685
+      Croc_Attack_1: 812613673
+      Croc_Attack_16: 791499585
+      Croc_WakeUp_2: 1279459349
+      Croc_Sleep_2: 644864583
+      Croc_Awake_3: 835500425
+      Croc_Attack_6: -1392696662
+      Croc_Sleep_4: 1119563736
+      Croc_Attack_15: 791499585
+      Croc_Attack_11: -571153899
+      Croc_Awake_10: 1189346713
+      Croc_Sleep_3: 644864583
+      Croc_Awake_9: 1030511071
+      Croc_FallAsleep_2: -1292731353
+      Croc_FallAsleep_4: 1431289438
+      Croc_Attack_14: -374504365
+      Croc_Attack_12: 416903311
+      Croc_Attack_10: -1208082699
+      Croc_Awake_5: 241170502
+      Croc_Attack_7: -1771674701
+      Croc_Sleep_7: -484673757
+      Size_reference: 1273548659
+      Croc_Attack_8: 1660476243
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1970 @@
+fileFormatVersion: 2
+guid: 077f4b6310daa5042bca1d4bd9b436df
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: water_RoG_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1016
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b06a8fc7885e445b3d03e78a089a3e
+      internalID: 1404445799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 984
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f1f70389c94e343a02efc86dd02ebc
+      internalID: -1012042956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 984
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ae0b1edc6e8864bbfdd55920fb8f02
+      internalID: 1878584932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1016
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13440959041e0d44a87c71a8e0d5a676
+      internalID: 1906262777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1016
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dee5c840bdfdd49b57d3459cdef33a
+      internalID: 1557409914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1016
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53006caf553f1d46a40ac3348a0e3a9
+      internalID: -1520700999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_6
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1016
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f89bf2d8a4cd44591331de46f33df2
+      internalID: 1316763141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_RoG_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 951
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf940ec6bc4ddcf4994f657beb416e4c
+      internalID: 2036205799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 872
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef29fb7023a01146bf344faeea46297
+      internalID: 1838493500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 872
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ecbbdc17b4faa4193165c35f280571
+      internalID: 1870382968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 951
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4479bb654dfd9c44382970432fdaf704
+      internalID: 1196089397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 951
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d40f8e8ab7eb9248874f4f126151492
+      internalID: -638193891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 951
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dc1f8f79f8fbd49b2a1736e302410e
+      internalID: -1655029058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_13
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 951
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6e561e7edcd0347a57bfb73c8e643e
+      internalID: -1528759418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_RoG_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 886
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ed03fc4b3452c458183864d529ffd4
+      internalID: -339501625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 886
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fb9a0cf9bc5d44d8b74d818a546346
+      internalID: -1223629633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 886
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06650d2cf1cadf4bb9248a54bd24fcf
+      internalID: -812310584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 886
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0984da319676f441b8847b2e4c496d3
+      internalID: -231583599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_18
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 886
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b6df8844c10bd4e98897e98ce23d94
+      internalID: 1378973286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_RoG_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 821
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf365dabd669334eb67a7ff511c496b
+      internalID: 750247544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 821
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e893b7389caa7ff45a2f15e628a550e4
+      internalID: -773854884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 821
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab574bf09f738a4ba7774a1c1bc4144
+      internalID: -1117471997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 821
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f151fa5e26150b44a5f6f13315285c0
+      internalID: -1610709705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_23
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 821
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223218b271faabf4caf156fab5bf18f5
+      internalID: 701537658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_RoG_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ee8cf025e53149a40926ac87db91e
+      internalID: -1332580164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 756
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b85a2d322334549991e9777ffb7952
+      internalID: 136867914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 756
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397e4ade6e5a167489dee04de3b109f4
+      internalID: -1157787969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 756
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193032e3c58e54248a929e3f5b87545c
+      internalID: -292511404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_28
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 756
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d12c653cf0a4847a7220faf762735d
+      internalID: -1518684916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_RoG_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 691
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d38cfbdb135174d8b4ec78626c8119
+      internalID: -1643609320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 691
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6a3b9c37140054aba871439576178a
+      internalID: -1672266926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 691
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c3d489d9113574e9edd2bd7d8d6923
+      internalID: -676925780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 691
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d0c030ff584c64a93ef168cb931e62
+      internalID: 235015954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_33
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 691
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74a1f6c64558d345847d5b83431d3e2
+      internalID: 2096787293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_RoG_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26d5134e8c844c4d86ce36fd675a496
+      internalID: 1584931545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 626
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a08fe0fe50407340be26e01ef951e9c
+      internalID: 677207656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 626
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4030abea16c65254a95bc284464a9e48
+      internalID: -721768149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 626
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79493a5bc709274da09fa85e8b50270
+      internalID: 342710256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_38
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 626
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bd50a60dedee142a8b23f92505d84f
+      internalID: 875930816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_RoG_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7159bcf9b387b7641875682aa8b7e03d
+      internalID: -688243817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 561
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05731c8497f6ff848be291c17ca869e1
+      internalID: 639064014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 561
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c437dd0ced1f141a80c00fbf18ee77
+      internalID: 2008407879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 561
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6750a60e0651a4abdf29ac43b6b157
+      internalID: -1353478678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_43
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 561
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f976e435e9b495468c815539f5a2d91
+      internalID: -2127798638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_RoG_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b19ab7553514648b239f5f398e740a
+      internalID: -1824429842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 496
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e73605251d98d4b9c1045270470e58
+      internalID: -1668463557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 496
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890ffb116d18e714b9b63e9e9e186144
+      internalID: -1183891776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 496
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40ae1d691da84246992f593225f5e49
+      internalID: 813905545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_48
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 496
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db10c55ca38ef0f43900e821163ee076
+      internalID: 1148949413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_RoG_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52553766243dac458c9df5576c633e8
+      internalID: 854920711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 431
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031cee415494a904881df39434b0fdb0
+      internalID: 1581602982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 431
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fcccb0707f75b45b5e789397ca544e
+      internalID: -1676516232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 431
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd55ebf0ecc6c87458b306daee1a8924
+      internalID: 1017449174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_53
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 431
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd40e1313cbab204bbbdcdc2c4df5f55
+      internalID: 610454900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_RoG_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fe617ceef027b43bbb9a53bdbfa02c
+      internalID: 46171329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 366
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed058d320bba1cf40af9048ccb85d545
+      internalID: -1150660614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 366
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07303580aa1b9ef48885bc4a1712c918
+      internalID: -569209245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 366
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1223408a387d6647bf51a4a01118fae
+      internalID: -505817501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_58
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 366
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefcd7b752adbb74e8c8eed198266876
+      internalID: 1725568280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_RoG_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c38b12d869dbb540a4556c5fff3486a
+      internalID: -1965590156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 301
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fb03be9de04d549a686f6b6fa614ea
+      internalID: -552955353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 301
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936602ffa45fe364eb65357c70f5d46e
+      internalID: -127395266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 301
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6589248a3b8ca8a42b8004cd57da0169
+      internalID: 1375079946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_63
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 301
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99041e826cbe9aa4f9470ef965f96370
+      internalID: -2054489842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_RoG_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a23074e7946a440b35cb83eb4c47ff
+      internalID: -284359990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 236
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d55c5424811a0e44b7b288b90426a6f
+      internalID: -255343129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 236
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f55509c2f56bd46bb76f6e71353286
+      internalID: 1129926201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 236
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75a689f1b630af48bed52763ef7cc4d
+      internalID: -2037184939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_68
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 236
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739661c3a815fbb4b95b49e4e88b56e7
+      internalID: -1133238704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_RoG_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec31c0846de7b848aad77e2e4177faa
+      internalID: -1338175414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 171
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710768189b32fc549926ee148939d8d6
+      internalID: -105655089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 171
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a562ec8d49a62a4090c6133871b489b
+      internalID: 2090058557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 171
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c630a840bcc63de40bac237d0d5c1181
+      internalID: 837686383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_73
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 171
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35614908220cf44cab795d7ca523706
+      internalID: -973983311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_RoG_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97471b3c983e7e34ea1cd78073e67ef1
+      internalID: 1516376413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 106
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8c1f5dcb4407748b61950ff9c77e16
+      internalID: 1253240603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 106
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efcc1c7196765147aa6b3ec493c336a
+      internalID: 579739792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 106
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01620dcaedf031949b4051a865ad80d2
+      internalID: 1082398485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_78
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 106
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da8630f3f341284cb31de7690d71d41
+      internalID: 1250949378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_RoG_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dfe91182c25654b9bf1577c782736d
+      internalID: -1805370510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_LoG_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 41
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae101551cfebc74d9c4a329b7c34b92
+      internalID: -50978101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_MoG_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 41
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916280ffa41243144997f8c07fd5a4ac
+      internalID: 675040284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_betweenG_16
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 41
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a2dca85f3c20241a4b023b794aba40
+      internalID: 674348730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground & water tiles 128 X 64 (X 32_83
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 41
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60160a6bde2ca404595e99be63cb6f6c
+      internalID: -1610761188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ground & water tiles 128 X 64 (X 32_53: 610454900
+      ground & water tiles 128 X 64 (X 32_18: 1378973286
+      ground & water tiles 128 X 64 (X 32_48: 1148949413
+      water_RoG_4: 750247544
+      water_MoG_16: 675040284
+      water_LoG_7: 677207656
+      water_betweenG_4: -1610709705
+      water_betweenG_2: -1655029058
+      water_LoG_3: -1223629633
+      ground_2: 1878584932
+      ground & water tiles 128 X 64 (X 32_68: -1133238704
+      ground & water tiles 128 X 64 (X 32_83: -1610761188
+      water_MoG_3: -812310584
+      ground & water tiles 128 X 64 (X 32_23: 701537658
+      ground & water tiles 128 X 64 (X 32_63: -2054489842
+      water_MoG_1: 1557409914
+      water_MoG_12: -127395266
+      water_LoG_5: 136867914
+      water_betweenG_1: -1520700999
+      ground & water tiles 128 X 64 (X 32_38: 875930816
+      ground_1: -1012042956
+      water_MoG_11: -569209245
+      water_betweenG_12: 1375079946
+      water_betweenG_16: 674348730
+      water_betweenG_14: 837686383
+      water_RoG_16: -1805370510
+      water_MoG_4: -1117471997
+      water_RoG_7: 1584931545
+      water_betweenG_3: -231583599
+      water_RoG_6: -1643609320
+      ground & water tiles 128 X 64 (X 32_33: 2096787293
+      water_RoG_2: 2036205799
+      ground_4: 1870382968
+      water_LoG_16: -50978101
+      water_RoG_14: -1338175414
+      water_LoG_1: 1906262777
+      water_RoG_11: 46171329
+      water_RoG_13: -284359990
+      water_betweenG_6: 235015954
+      water_LoG_6: -1672266926
+      water_LoG_13: -255343129
+      water_LoG_9: -1668463557
+      water_MoG_14: 2090058557
+      water_LoG_15: 1253240603
+      water_betweenG_10: 1017449174
+      ground & water tiles 128 X 64 (X 32_28: -1518684916
+      water_RoG_1: 1404445799
+      water_MoG_6: -676925780
+      water_LoG_2: 1196089397
+      water_MoG_9: -1183891776
+      water_betweenG_11: -505817501
+      water_betweenG_13: -2037184939
+      water_RoG_8: -688243817
+      water_LoG_4: -773854884
+      water_betweenG_5: -292511404
+      ground & water tiles 128 X 64 (X 32_58: 1725568280
+      water_RoG_9: -1824429842
+      water_betweenG_7: 342710256
+      ground_3: 1838493500
+      ground & water tiles 128 X 64 (X 32_6: 1316763141
+      water_RoG_5: -1332580164
+      water_MoG_8: 2008407879
+      water_LoG_10: 1581602982
+      water_MoG_10: -1676516232
+      water_betweenG_9: 813905545
+      ground & water tiles 128 X 64 (X 32_73: -973983311
+      ground & water tiles 128 X 64 (X 32_78: 1250949378
+      water_MoG_13: 1129926201
+      water_LoG_12: -552955353
+      water_MoG_15: 579739792
+      water_RoG_12: -1965590156
+      water_LoG_8: 639064014
+      water_betweenG_8: -1353478678
+      water_LoG_14: -105655089
+      water_RoG_15: 1516376413
+      water_betweenG_15: 1082398485
+      ground & water tiles 128 X 64 (X 32_13: -1528759418
+      water_RoG_10: 854920711
+      water_LoG_11: -1150660614
+      water_MoG_2: -638193891
+      ground & water tiles 128 X 64 (X 32_43: -2127798638
+      water_MoG_5: -1157787969
+      water_MoG_7: -721768149
+      water_RoG_3: -339501625
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
